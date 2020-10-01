@@ -11,12 +11,12 @@ h3 {
 }
 
 .imagebackground {
-    height: 500px;
-    width: 500px;
     align-items: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: auto;
+    width: auto;
 }
 
 
